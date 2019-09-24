@@ -1,0 +1,8 @@
+Connexion with FileZilla
+
+New site in site manager
+Choose SFTP and not FTP
+Host is peregrine.hoc.rug.nl
+No port
+Authentication mode is normal
+ID and pwd are the same as for Peregrine
